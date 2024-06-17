@@ -1,0 +1,8 @@
+[05-Jan-2024 20:09:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/rainedu/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/rainedu/public_html/config/cache.php on line 18
+[13-Jan-2024 21:23:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/rainedu/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/rainedu/public_html/config/cache.php on line 18
